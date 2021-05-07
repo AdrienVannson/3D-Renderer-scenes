@@ -1,8 +1,7 @@
 QT += core gui widgets
 
-TARGET = Spheres
+TARGET = KD-Tree-optimization
 TEMPLATE = app
-#DEFINES += QT_DEPRECATED_WARNINGS
 CONFIG += c++11
 
 INCLUDEPATH += renderer/
